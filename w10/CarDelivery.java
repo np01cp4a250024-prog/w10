@@ -7,7 +7,7 @@ package w10;
  * @author (your name)
  * @version (a version number or a date)
  */
-class CarDelivery extends DeliveryPerson {
+public class CarDelivery extends DeliveryPerson {
     private double maintenanceAllowance;
 
     CarDelivery(int id, String name, double basePayment, double maintenanceAllowance) {

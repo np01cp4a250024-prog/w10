@@ -7,7 +7,7 @@ package w10;
  * @author (your name)
  * @version (a version number or a date)
  */
-class DeliveryPerson {
+public class DeliveryPerson {
     private int id;
     private String name;
     private double basePayment;
