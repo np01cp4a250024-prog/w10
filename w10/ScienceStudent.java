@@ -7,7 +7,7 @@ package w10;
  * @author (your name)
  * @version (a version number or a date)
  */
-class ScienceStudent extends Student {
+public class ScienceStudent extends Student {
 
     ScienceStudent(int rollNo, String name, int marks) {
         super(rollNo, name, marks);
